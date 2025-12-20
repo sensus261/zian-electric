@@ -5,10 +5,10 @@
   "license": "MIT",
   "author": "zeon.studio",
   "scripts": {
-    "dev": "concurrently \"node scripts/themeGenerator.js --watch\" \"hugo server\"",
+    "dev": "concurrently \"node scripts/themeGenerator.js --watch\" \"hugo server --bind=0.0.0.0\"",
     "build": "node scripts/themeGenerator.js && hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
     "preview": "node scripts/themeGenerator.js && hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify",
-    "dev:example": "concurrently \"node scripts/themeGenerator.js --watch\" \"hugo server -s exampleSite\"",
+    "dev:example": "concurrently \"node scripts/themeGenerator.js --watch\" \"hugo server -s exampleSite --bind=0.0.0.0\"",
     "build:example": "cd exampleSite && node ../scripts/themeGenerator.js && hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
     "preview:example": "cd exampleSite && node ../scripts/themeGenerator.js && hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify",
     "update-modules": "node ./scripts/clearModules.js && hugo mod clean --all && hugo mod get -u ./... && hugo mod tidy",
@@ -17,7 +17,11 @@
     "project-setup": "node ./scripts/projectSetup.js",
     "theme-setup": "node ./scripts/themeSetup.js",
     "update-theme": "node ./scripts/themeUpdate.js",
-    "format": "prettier -w ."
+    "format": "prettier -w .",
+    "docker:dev": "docker-compose up --build",
+    "docker:prod": "docker-compose -f docker-compose.prod.yml up --build -d",
+    "docker:build": "docker build -f Dockerfile.prod -t zian-electric:latest .",
+    "docker:stop": "docker-compose down"
   },
   "devDependencies": {
     "@tailwindcss/cli": "^4.1.17",

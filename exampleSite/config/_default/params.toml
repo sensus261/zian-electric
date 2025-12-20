@@ -11,14 +11,14 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Hugoplate"
+logo_text = "Zian Electric"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
 theme_switcher = true
-theme_default = "system" # available options [light/dark/system]
+theme_default = "light" # available options [light/dark/system]
 # Main Sections
-mainSections = ["blog"]
+mainSections = ["servicii"]
 # contact form action
 contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
@@ -27,7 +27,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Designed & Developed by [Zeon Studio](https://zeon.studio)"
+copyright = "© 2024 Zian Electric. Toate drepturile rezervate."
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -38,15 +38,15 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "get a quote"
+label = "Solicită Ofertă"
 link = "contact"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
 [search]
 enable = true
-primary_color = "#121212"
-include_sections = ["blog"]
+primary_color = "#FFB800"
+include_sections = ["servicii"]
 show_image = true
 show_description = true
 show_tags = true
@@ -56,17 +56,17 @@ show_categories = true
 # announcement module: https://github.com/gethugothemes/hugo-modules/tree/master/components/announcement
 [announcement]
 enable = true
-expire_days = 7
-content = "<span class='text-center block'>♥️ Loving Hugoplate? <a class='underline' href='https://github.com/zeon-studio/hugoplate' target='_blank' rel='noopener'>Please ⭐️ on Github</a></span>"
+expire_days = 30
+content = "<span class='text-center block'>⚡ Intervenții de urgență 24/7! <a class='underline text-primary' href='/contact' target='_blank'>Contactați-ne acum</a> pentru servicii electrice rapide și sigure</span>"
 
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-twitter = "zeon_studio"
-image = "images/og-image.png"
+keywords = ["servicii electrice", "electrician autorizat", "instalatii electrice", "climatizare", "urgente electrice", "Bucuresti", "Romania"]
+description = "Zian Electric - Servicii electrice profesionale în România. Instalații electrice, climatizare, sisteme de siguranță. Electricieni autorizați, intervenții 24/7."
+author = "Zian Electric"
+twitter = "zianelectric"
+image = "images/zian-electric-og.png"
 
 
 # site verifications

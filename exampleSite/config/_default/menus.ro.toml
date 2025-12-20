@@ -1,0 +1,43 @@
+############# Romanian navigation ##############
+
+# main menu
+[[main]]
+name = "Acasă"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Despre Noi"
+url = "/despre-noi"
+weight = 2
+
+[[main]]
+name = "Servicii"
+url = "/servicii"
+weight = 3
+
+[[main]]
+name = "Contact"
+url = "/contact"
+weight = 4
+
+# footer menu
+[[footer]]
+name = "Despre Noi"
+url = "/despre-noi"
+weight = 1
+
+[[footer]]
+name = "Servicii"
+url = "/servicii"
+weight = 2
+
+[[footer]]
+name = "Contact"
+url = "/contact"
+weight = 3
+
+[[footer]]
+name = "Politica de Confidențialitate"
+url = "/politica-confidentialitate"
+weight = 4

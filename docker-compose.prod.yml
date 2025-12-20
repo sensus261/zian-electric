@@ -1,0 +1,17 @@
+version: "3.8"
+
+services:
+  hugo-prod:
+    build:
+      context: .
+      dockerfile: Dockerfile.prod
+    ports:
+      - "80:80"
+    environment:
+      - NODE_ENV=production
+      - HUGO_ENV=production
+    restart: unless-stopped
+
+networks:
+  default:
+    driver: bridge

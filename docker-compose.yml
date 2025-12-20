@@ -1,0 +1,20 @@
+version: "3.8"
+
+services:
+  hugo-dev:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    ports:
+      - "1313:1313"
+    volumes:
+      - .:/app
+    environment:
+      - NODE_ENV=development
+      - HUGO_ENV=development
+    stdin_open: true
+    tty: true
+
+networks:
+  default:
+    driver: bridge

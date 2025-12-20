@@ -1,0 +1,59 @@
+FROM ubuntu:22.04 AS base
+
+# Build arguments for multi-platform support
+ARG TARGETARCH=arm64
+
+# Avoid interactive prompts
+ENV DEBIAN_FRONTEND=noninteractive
+
+# Install system dependencies including image processing libraries
+RUN apt-get update && apt-get install -y \
+    curl \
+    wget \
+    git \
+    ca-certificates \
+    libjpeg-dev \
+    libpng-dev \
+    libwebp-dev \
+    imagemagick \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install Node.js 22
+RUN curl -fsSL https://deb.nodesource.com/setup_22.x | bash - \
+    && apt-get install -y nodejs
+
+# Install Go (universal architecture)
+RUN ARCH=$(case ${TARGETARCH} in amd64) echo "amd64" ;; arm64) echo "arm64" ;; *) echo "amd64" ;; esac) && \
+    wget https://go.dev/dl/go1.25.0.linux-${ARCH}.tar.gz && \
+    tar -C /usr/local -xzf go1.25.0.linux-${ARCH}.tar.gz && \
+    rm go1.25.0.linux-${ARCH}.tar.gz
+ENV PATH="/usr/local/go/bin:${PATH}"
+
+# Install Hugo Extended (universal architecture)
+ARG HUGO_VERSION=0.153.1
+RUN ARCH=$(case ${TARGETARCH} in amd64) echo "amd64" ;; arm64) echo "arm64" ;; *) echo "amd64" ;; esac) && \
+    wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-${ARCH}.tar.gz && \
+    tar -xzf hugo_extended_${HUGO_VERSION}_linux-${ARCH}.tar.gz && \
+    mv hugo /usr/local/bin/ && \
+    rm hugo_extended_${HUGO_VERSION}_linux-${ARCH}.tar.gz
+
+# Verify installations
+RUN hugo version && node --version && npm --version && go version
+
+WORKDIR /app
+
+# Copy startup script first
+COPY start.sh /start.sh
+RUN chmod +x /start.sh
+
+# Copy source code
+COPY . .
+
+# Install npm dependencies
+RUN npm install
+
+# Expose Hugo development server port
+EXPOSE 1313
+
+# Start development server using the script
+CMD ["/start.sh"]
