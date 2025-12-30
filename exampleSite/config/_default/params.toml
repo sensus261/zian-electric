@@ -38,14 +38,14 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "Solicită Ofertă"
+label = "Solicită ofertă"
 link = "contact"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
 [search]
 enable = true
-primary_color = "#FFB800"
+primary_color = "#0472b7ff"
 include_sections = ["servicii"]
 show_image = true
 show_description = true

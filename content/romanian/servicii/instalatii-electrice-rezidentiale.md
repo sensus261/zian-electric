@@ -1,18 +1,18 @@
 ---
-title: "Instalații electrice rezidențiale - Zian Electric"
+title: "Instalații electrice conform normativ - Zian Electric SRL"
 meta_title: "Instalații electrice rezidențiale"
-description: "Instalații electrice complete pentru case și apartamente. Proiectare, execuție, modernizare. Electricieni autorizați, garanție extinsă."
+description: "Instalații electrice conform normativ pentru case și apartamente în Alba Iulia. Branșamente, prize de pământ măsurate, modificări și extinderi."
 image: "/images/instalatii-rezidentiale.png"
 layout: "single"
 date: 2024-12-20
 draft: false
 ---
 
-# Instalații electrice rezidențiale
+# Instalații electrice conform normativ
 
 &nbsp;
 
-Oferim servicii complete de instalații electrice pentru case, apartamente și vile, de la proiectare la execuție și mentenanță.
+Zian Electric SRL din Alba Iulia, administrată de Opriș Ioan Augustin, oferă servicii de instalații electrice conform normativelor pentru case și apartamente.
 
 &nbsp;
 
@@ -22,29 +22,26 @@ Oferim servicii complete de instalații electrice pentru case, apartamente și v
 
 ### 🏡 Instalații electrice noi
 
-- **Proiectare completă** a instalației electrice
-- **Tablouri electrice** moderne cu protecții
-- **Circuite de priză** și iluminat
-- **Cablaje** conform standardelor europene
-- **Împământări** și sisteme de protecție
+- **Instalații electrice conform normativ** pentru case și apartamente
+- **Branșamente și prize de pământ măsurate** - rezultatul fiind conform normativului
+- **Executare profesională** respectând toate standardele
+- **Program dinamic** adaptat nevoilor clienților
 
-### 🔧 Modernizări și renovări
+### 🔧 Modificări și extinderi
 
-- **Înlocuirea tabloului electric** vechi
-- **Upgrade cablaje** deteriorate
-- **Adăugarea de circuite** noi
-- **Instalarea prizelor** USB și smart
-- **Sisteme de protecție** moderne (AFDD, RCD)
+- **Modificări instalații electrice** în permisiunea normativului
+- **Extinderi instalații** conform cerințelor
+- **Adaptări la noi nevoi** ale locuințelor
+- **Respectăm normativele** în vigoare
 
 &nbsp;
 
-### 💡 Iluminat și automatizare
+### 💡 Iluminat și corpuri de iluminat
 
-- **Iluminat LED** eficient energetic
-- **Sisteme de control** cu senzori
-- **Iluminat decorativ** interior și exterior
-- **Automatizare** cu temporizatoare
-- **Sisteme smart** controlabile de la distanță
+- **Montarea corpurilor de iluminat** pe diverse profile
+- **Benzi LED** pe diferite profile și design ales
+- **Soluții de iluminat personalizate** pentru fiecare spațiu
+- **Instalare profesională** pentru siguranță maximă
 
 &nbsp;
 
@@ -91,7 +88,7 @@ Oferim servicii complete de instalații electrice pentru case, apartamente și v
 - **Emiterea certificatelor** de conformitate
 - **Instruirea clientului** pentru utilizare
 
-## Preturi Orientative
+## Prețuri orientative
 
 | Serviciu                             | Preț de la |
 | ------------------------------------ | ---------- |
@@ -104,7 +101,7 @@ Oferim servicii complete de instalații electrice pentru case, apartamente și v
 
 _Prețurile pot varia în funcție de complexitatea lucrării și materialele alese._
 
-## De Ce Să Ne Alegeți?
+## De ce să ne alegeți?
 
 ### 🎯 Specializare Exclusivă
 
@@ -122,7 +119,7 @@ Oferim suport tehnic și după finalizarea lucrărilor, pentru orice întrebări
 
 Pentru urgențe sau probleme neprevăzute, intervenim în maximum 24 de ore.
 
-## Zone de Acoperire
+## Zone de acoperire
 
 ### Intervenții Same-Day
 
@@ -136,7 +133,7 @@ Pentru urgențe sau probleme neprevăzute, intervenim în maximum 24 de ore.
 - **Argeș** (Pitești)
 - **Giurgiu** și **Călărași**
 
-## Testimoniale Clienți
+## Testimoniale clienți
 
 > _"Am renovat complet instalația electrică a casei cu ajutorul echipei Zian Electric. Profesionalism exemplar, materiale de calitate și preț corect. Recomand cu încredere!"_  
 > **— Ana M., București**

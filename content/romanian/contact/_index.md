@@ -1,150 +1,151 @@
 ---
-title: "Contact - Zian Electric"
+title: "Contact"
 meta_title: "Contact"
-description: "Contactați Zian Electric pentru servicii electrice profesionale. Consultanță gratuită, intervenții rapide, oferte personalizate în toată România."
+description: "Contactați Zian Electric SRL pentru servicii electrice în Alba Iulia. Instalații electrice, climatizare și automatizare porți. Program dinamic adaptat nevoilor."
 layout: "contact"
 draft: false
 ---
 
-# Contactați-ne pentru Servicii Electrice Profesionale
+# Contactați-ne pentru servicii electrice
 
-Echipa **Zian Electric** este disponibilă pentru a vă oferi consultanță gratuită și soluții personalizate pentru toate nevoile dumneavoastră electrice.
+Echipa **Zian Electric SRL** din Alba Iulia este disponibilă pentru a vă oferi soluții personalizate pentru toate nevoile dumneavoastră electrice. Firma este administrată de Opriș Ioan Augustin și are un program orar dinamic.
+
+## 📝 Solicitați o ofertă online
+
+Completați formularul de mai jos pentru a primi o ofertă personalizată. După completare, se va deschide aplicația de email cu un mesaj pregătit pe care îl puteți trimite direct.
 
 ---
 
 ## 📞 Informații de Contact
 
+### Datele firmei
+
+**🏢 Firma**: Zian Electric SRL  
+**📍 Sediu**: Alba Iulia  
+**👨‍💼 Administrator**: Opriș Ioan Augustin  
+**⚠️ Status**: Firma nu este autorizată
+
 ### Telefon
 
-**📱 Mobil**: [+40 741 234 567](tel:+40741234567)  
-**☎️ Fix**: [+40 21 345 678](tel:+40213456789)
+**📱 Contact**: Pentru programare și informații  
+**⚡ Urgențe**: Intervenții electrice urgente
 
 ### Email
 
-**📧 General**: [contact@zian-electric.ro](mailto:contact@zian-electric.ro)  
-**💼 Oferte**: [oferte@zian-electric.ro](mailto:oferte@zian-electric.ro)  
-**🚨 Urgențe**: [urgenta@zian-electric.ro](mailto:urgenta@zian-electric.ro)
+**📧 General**: Pentru informații generale  
+**💰 Oferte**: Pentru solicitarea de oferte  
+**🚨 Urgențe**: Pentru situații urgente
 
-### Program de Lucru
+### Program de lucru
 
-**📅 Luni - Vineri**: 08:00 - 18:00  
-**📅 Sâmbătă**: 09:00 - 14:00  
-**📅 Duminică**: Numai urgențe  
-**🚨 Urgențe**: 24/7 - 365 zile/an
+**🕒 Program**: **Dinamic** - adaptat nevoilor clienților  
+**👥 Flexibilitate**: Suntem deschiși la diverse circumstanțe  
+**📞 Programare**: Contactați-ne pentru stabilirea unei întâlniri
 
 ---
 
 ## 📍 Locația Noastră
 
 **🏢 Adresa Sediu**:  
-Strada Electricienilor nr. 25  
-Sector 2, București, România  
-Cod poștal: 020234
+Alba Iulia, Județul Alba  
+România
 
-**🚐 Zone de Acoperire**:
+**🚚 Zone de Acoperire**:
 
-- București și Ilfov (intervenție în 1-2 ore)
-- Județul Prahova (Ploiești, Câmpina)
-- Județul Dâmbovița (Târgoviște)
-- Județul Argeș (Pitești)
-- Pentru alte zone, contactați-ne pentru disponibilitate
-
----
-
-## ⚡ Servicii de Urgență 24/7
-
-Pentru **situații de urgență** care pun în pericol siguranța:
-
-- Scurt-circuite și probleme grave de instalații
-- Defecțiuni majore de tablouri electrice
-- Întreruperi de curent inexplicabile
-- Probleme cu climatizarea în perioade extreme
-
-**🚨 Linia de urgență**: [+40 741 234 567](tel:+40741234567)
-
-_Taxă deplasare urgență: 100 RON (se deduce din costul lucrării)_
+- Alba Iulia și împrejurimi (zona principală)
+- Județul Alba (prioritate)
+- Zone limitrofe (la cerere)
+- Program dinamic pentru deplasare
+- Intervenția va fi taxată în funcție de circumstanțe
 
 ---
 
-## 💬 Solicitați o Ofertă Gratuită
+## ⚡ Serviciile Noastre
 
-Pentru a primi o **ofertă personalizată**, vă rugăm să ne furnizați următoarele informații:
+Pentru **toate nevoile electrice** în Alba Iulia și împrejurimi:
 
-### Date de Contact
+- **Instalații electrice conform normativ** pentru case și apartamente
+- **Branșamente și prize de pământ măsurate** (conform normativului)
+- **Modificări și extinderi instalații electrice** în permisiunea normativului
+- **Montarea corpurilor de iluminat** și benzi LED
+- **Instalarea aerelor condiționate** 9-12-18-24000BTU cu vidarea conductei
+- **Automatizare poarta batantă sau culisantă** cu telecomandă/telefon/buton
 
-- **Nume complet**
-- **Telefon de contact**
-- **Email**
-- **Adresa lucrării**
+**Suntem deschiși intervențiilor ce țin de electric!**
 
-### Detalii Proiect
-
-- **Tipul serviciului** dorit
-- **Suprafața** (pentru instalații noi)
-- **Descrierea problemei** (pentru reparații)
-- **Termen preferat** pentru execuție
-- **Buget estimativ**
+_Intervenția va fi taxată în funcție de circumstanțe_
 
 ---
 
-## 📋 Formular de Contact
+## 💬 Cum funcționează formularul?
 
-_[Aici ar fi integrat un formular de contact funcțional]_
+Pentru a primi o **ofertă personalizată**, urmați acești pași simpli:
 
-**Alternativ**, puteți să ne contactați direct prin:
+### 1. Completați formularul
 
-- **WhatsApp**: [+40 741 234 567](https://wa.me/40741234567)
-- **Messenger**: [Facebook Zian Electric](https://facebook.com/zianelectric)
-- **Email**: [contact@zian-electric.ro](mailto:contact@zian-electric.ro)
+- **Datele dumneavoastră de contact** (nume, email, telefon)
+- **Locația lucrării** (adresa unde se va efectua serviciul)
+- **Tipul serviciului** dorit (electric, climatizare, automatizare)
+- **Descrierea detaliată** a lucrării sau problemei
+- **Termenul preferat** pentru execuție
+
+### 2. Trimiterea cererii
+
+- După completarea formularului, apăsați butonul **"Trimite cererea"**
+- Se va deschide automat aplicația de email cu un mesaj pregătit
+- Verificați informațiile și trimiteți emailul
+
+### 3. Primirea răspunsului
+
+- Veți primi răspuns în cel mai scurt timp posibil
+- Oferta va fi personalizată în funcție de nevoile dumneavoastră
+- Se va stabili o întâlnire pentru evaluarea lucrării
 
 ---
 
-## 🌟 Testimoniale Clienți
+## 📋 Pentru contact direct
 
-> _"Echipa Zian Electric a fost extrem de profesionistă. Au rezolvat problema electrică în timpul promis și la un preț corect. Recomand cu încredere!"_  
-> **— Maria P., București**
+**Alternativ**, puteți să ne contactați direct:
 
-> _"Am apelat la ei pentru instalarea unei climatizări. Serviciu impecabil, au curățat după ei și au explicat tot ce trebuie să știu pentru întreținere."_  
-> **— Alexandru T., Ploiești**
-
-> _"Service rapid și eficient pentru firma noastră. Contractul de mentenanță ne-a economisit timp și bani. Mulțumim!"_  
-> **— SRL TechSoft, București**
+- **Telefon**: Pentru programări și informații
+- **Email**: Pentru solicitări scrise
+- **La sediu**: Alba Iulia (program dinamic)
 
 ---
 
-## 🏆 De Ce Să Ne Alegeți?
+## 🏆 De ce să ne alegeți?
 
-✅ **Răspuns rapid** - În maxim 2 ore la solicitări  
-✅ **Consultanță gratuită** - Evaluare și sfaturi profesionale  
-✅ **Oferte transparente** - Prețuri clare, fără surprize  
-✅ **Echipament profesional** - Aparatură de ultimă generație  
-✅ **Electricieni autorizați** - Certificați ANRE  
-✅ **Garanție extinsă** - Până la 5 ani la lucrări  
-✅ **Plată flexibilă** - Numerar, card, transfer bancar
+✅ **Experiență confirmată** - Am executat cu succes lucrările menționate și multe altele  
+✅ **Program flexibil** - Orar dinamic adaptat nevoilor clienților  
+✅ **Oferte corecte** - Taxare în funcție de circumstanțe, fără surprize  
+✅ **Conformitate normative** - Toate lucrările conform standardelor  
+✅ **Servicii complete** - Electric, climatizare și automatizare  
+✅ **Intervenții diverse** - Deschiși la multe tipuri de lucrări  
+✅ **Locație convenabilă** - Alba Iulia și împrejurimi
 
 ---
 
 ## 🚗 Acoperirea Geografică
 
-### Intervții Rapide (1-2 ore)
+### Zona principală
 
-- **București** (toate sectoarele)
-- **Județul Ilfov** complet
+- **Alba Iulia** (toate zonele)
+- **Împrejurimile Alba Iulia** (comune limitrofe)
 
-### Intervenții Same-Day (3-6 ore)
+### Zone secundare
 
-- **Ploiești** și împrejurimi
-- **Târgoviște** și împrejurimi
-- **Pitești** și împrejurimi
+- **Județul Alba** (la cerere)
+- **Zone limitrofe** (funcție de circumstanțe)
+- **Intervenții speciale** (la solicitare)
 
-### Intervenții Programate
+### Condiții Deplasare
 
-- Oriunde în **România**
-- Consultanță și proiectare la distanță
-- Deplasare pentru proiecte mari
+- **Program dinamic** pentru toate zonele
+- **Taxare în funcție de circumstanțe**
+- **Evaluați disponibilitatea** prin contact direct
 
 ---
 
-**📞 Sunați acum pentru o consultanță gratuită: [0741 234 567](tel:+40741234567)**
+**📞 Contactați-ne pentru orice nevoie electrică în Alba Iulia!**
 
-_Zian Electric - Siguranța electrică în mâini de profesioniști!_
+_Zian Electric SRL - Soluții electrice adaptate nevoilor dumneavoastră!_

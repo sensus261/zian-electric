@@ -6,41 +6,96 @@
     <div class="container">
       <div class="row">
         <div class="md:col-10 lg:col-6 mx-auto">
-          <form action="{{ site.Params.contact_form_action }}" method="POST">
+          <form id="contact-form" action="#" method="POST">
             <div class="mb-6">
               <label for="name" class="form-label">
-                Full Name <span class="text-red-500">*</span>
+                Nume complet <span class="text-red-500">*</span>
               </label>
               <input
                 id="name"
                 name="name"
                 class="form-input"
-                placeholder="John Doe"
-                type="text" />
+                placeholder="Ion Popescu"
+                type="text" 
+                required />
             </div>
             <div class="mb-6">
               <label for="email" class="form-label">
-                Working Mail <span class="text-red-500">*</span>
+                Adresa de email <span class="text-red-500">*</span>
               </label>
               <input
                 id="email"
                 name="email"
                 class="form-input"
-                placeholder="john.doe@email.com"
-                type="email" />
+                placeholder="ion.popescu@email.com"
+                type="email" 
+                required />
+            </div>
+            <div class="mb-6">
+              <label for="phone" class="form-label">
+                Telefon
+              </label>
+              <input
+                id="phone"
+                name="phone"
+                class="form-input"
+                placeholder="0740123456"
+                type="tel" />
+            </div>
+            <div class="mb-6">
+              <label for="service" class="form-label">
+                Serviciul dorit <span class="text-red-500">*</span>
+              </label>
+              <select id="service" name="service" class="form-input" required>
+                <option value="">Selectați serviciul</option>
+                <option value="instalatii-electrice">Instalații electrice</option>
+                <option value="climatizare">Climatizare</option>
+                <option value="automatizare-porti">Automatizare porți</option>
+                <option value="modificari-instalatii">Modificări instalații existente</option>
+                <option value="iluminat">Montare corpuri de iluminat</option>
+                <option value="branșamente">Branșamente și prize de pământ</option>
+                <option value="altele">Altele</option>
+              </select>
+            </div>
+            <div class="mb-6">
+              <label for="location" class="form-label">
+                Locația lucrării <span class="text-red-500">*</span>
+              </label>
+              <input
+                id="location"
+                name="location"
+                class="form-input"
+                placeholder="Alba Iulia, strada..."
+                type="text" 
+                required />
             </div>
             <div class="mb-6">
               <label for="message" class="form-label">
-                Anything else? <span class="text-red-500">*</span>
+                Descrierea lucrării <span class="text-red-500">*</span>
               </label>
               <textarea
                 id="message"
                 name="message"
                 class="form-input"
-                placeholder="Message goes here..."
-                rows="8"></textarea>
+                placeholder="Descrieți detaliat lucrarea pe care o doriți..."
+                rows="8"
+                required></textarea>
             </div>
-            <button type="submit" class="btn btn-primary">Submit</button>
+            <div class="mb-6">
+              <label for="timeline" class="form-label">
+                Termen preferat pentru execuție
+              </label>
+              <select id="timeline" name="timeline" class="form-input">
+                <option value="">Selectați termenul</option>
+                <option value="urgent">Urgent (în 24-48 ore)</option>
+                <option value="saptamana-aceasta">În această săptămână</option>
+                <option value="saptamana-viitoare">Săptămâna viitoare</option>
+                <option value="urmatoarele-2-saptamani">În următoarele 2 săptămâni</option>
+                <option value="luna-aceasta">În această lună</option>
+                <option value="flexibil">Flexibil</option>
+              </select>
+            </div>
+            <button type="submit" class="btn btn-primary">Trimite cererea</button>
           </form>
         </div>
       </div>
@@ -110,6 +165,90 @@
       <!-- /subscription form -->
     {{ end }}
   {{ end }}
+
+  <!-- Contact Form Email Script -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const contactForm = document.getElementById('contact-form');
+      
+      if (contactForm) {
+        contactForm.addEventListener('submit', function(e) {
+          e.preventDefault();
+          
+          // Get form data
+          const formData = new FormData(this);
+          const name = formData.get('name');
+          const email = formData.get('email');
+          const phone = formData.get('phone') || 'Nu a fost specificat';
+          const service = formData.get('service');
+          const location = formData.get('location');
+          const message = formData.get('message');
+          const timeline = formData.get('timeline') || 'Flexibil';
+          
+          // Get service name in Romanian
+          const serviceNames = {
+            'instalatii-electrice': 'Instalații electrice',
+            'climatizare': 'Climatizare',
+            'automatizare-porti': 'Automatizare porți',
+            'modificari-instalatii': 'Modificări instalații existente',
+            'iluminat': 'Montare corpuri de iluminat',
+            'branșamente': 'Branșamente și prize de pământ',
+            'altele': 'Altele'
+          };
+          
+          const serviceDisplayName = serviceNames[service] || service;
+          
+          // Get timeline name in Romanian
+          const timelineNames = {
+            'urgent': 'Urgent (în 24-48 ore)',
+            'saptamana-aceasta': 'În această săptămână',
+            'saptamana-viitoare': 'Săptămâna viitoare',
+            'urmatoarele-2-saptamani': 'În următoarele 2 săptămâni',
+            'luna-aceasta': 'În această lună',
+            'flexibil': 'Flexibil'
+          };
+          
+          const timelineDisplayName = timelineNames[timeline] || timeline;
+          
+          // Create email content
+          const subject = `Cerere ofertă ${serviceDisplayName} - ${name}`;
+          
+          const emailBody = `Bună ziua,
+
+Vă contactez pentru a solicita o ofertă pentru serviciile electrice de la Zian Electric SRL.
+
+DETALII CLIENT:
+Nume: ${name}
+Email: ${email}
+Telefon: ${phone}
+Locația lucrării: ${location}
+
+DETALII SERVICIU:
+Serviciul dorit: ${serviceDisplayName}
+Termen preferat: ${timelineDisplayName}
+
+DESCRIEREA LUCRĂRII:
+${message}
+
+Vă rog să mă contactați pentru stabilirea unei întâlniri și prezentarea unei oferte personalizate.
+
+Vă mulțumesc pentru timpul acordat!
+
+Cu stimă,
+${name}`;
+
+          // Create mailto link
+          const mailtoLink = `mailto:contact@zian-electric.ro?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(emailBody)}`;
+          
+          // Open email client
+          window.location.href = mailtoLink;
+          
+          // Show success message
+          alert('Aplicația de email s-a deschis cu mesajul pregătit. Vă rugăm să îl trimiteți pentru a finaliza cererea.');
+        });
+      }
+    });
+  </script>
 
   {{ if site.Params.google_map.enable }}
     {{ $gmap:= resources.Get "plugins/maps/google-map.js" }}

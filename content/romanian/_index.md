@@ -1,53 +1,53 @@
 ---
 # Banner
 banner:
-  title: "Servicii Electrice Profesionale în România"
-  content: "Zian Electric oferă servicii complete de instalații electrice, montaj climatizare, sisteme de siguranță și întreținere pentru case și companii. Echipa noastră de electricieni autorizați garantează lucrări de calitate superioară."
-  image: "/images/banner-electric.png"
+  title: "Servicii electrice profesionale în Alba Iulia"
+  content: "Zian Electric SRL, cu sediul în Alba Iulia, oferă servicii de instalații electrice, montaj climatizare și automatizare porți. Executăm lucrări conform normativ pentru case și apartamente."
+  image: "/images/not-known-image.png"
   button:
     enable: true
-    label: "Solicită Ofertă Gratuită"
+    label: "Solicită ofertă gratuită"
     link: "/contact"
 
 # Features
 features:
   - title: "Serviciile noastre principale"
-    image: "/images/instalatii-electrice.png"
-    content: "Oferim o gamă completă de servicii electrice pentru toate nevoile dumneavoastră, de la instalații noi la întreținere și reparații."
+    image: "/images/service-1.png"
+    content: "Oferim servicii electrice conform normativ pentru case și apartamente, precum și montaj climatizare și automatizare porți."
     bulletpoints:
-      - "**Instalații electrice** complete pentru case și apartamente"
-      - "**Montaj climatizare** și sisteme HVAC"
-      - "**Sisteme de siguranță** - alarme și supraveghere video"
-      - "**Întreținere și reparații** rapide și eficiente"
-      - "**Certificări și avize** conform normelor în vigoare"
-      - "**Intervenții de urgență** 24/7"
+      - "**Instalații electrice conform normativ** case și apartamente"
+      - "**Branșamente și prize de pământ măsurate** conform normativului"
+      - "**Modificări și extinderi instalații electrice** în permisiunea normativului"
+      - "**Montare corpuri de iluminat** și benzi LED pe diverse profile"
+      - "**Instalare aere condiționate** 9-12-18-24000BTU cu vidarea conductei"
+      - "**Automatizare poarta batantă sau culisantă** cu telecomandă/telefon/buton"
     button:
       enable: true
       label: "Vezi toate serviciile"
       link: "/servicii"
 
   - title: "De ce să alegeți Zian Electric?"
-    image: "/images/echipa-profesionala.png"
-    content: "Cu peste 10 ani de experiență în domeniu, suntem una dintre cele mai de încredere companii de servicii electrice din România."
+    image: "/images/service-2.png"
+    content: "Am executat cu succes lucrările menționate și multe altele. Suntem deschiși intervențiilor care țin de electric."
     bulletpoints:
-      - "**Electricieni autorizați ANRE** cu experiență vastă"
-      - "**Materiale de calitate superioară** de la producători recunoscuți"
-      - "**Garanție extinsă** la toate lucrările efectuate"
-      - "**Prețuri competitive** și transparente"
-      - "**Răspuns rapid** la solicitări și urgențe"
-      - "**Consultanță gratuită** pentru toate proiectele"
+      - "**Experiență confirmată** în instalații electrice"
+      - "**Lucrări conform normativ** pentru siguranță maximă"
+      - "**Intervenții flexibile** pentru diverse circumstanțe"
+      - "**Program orar dinamic** adaptat nevoilor clienților"
+      - "**Prețuri în funcție de circumstanțe** - transparente"
+      - "**Execuție de calitate** pentru toate tipurile de lucrări electrice"
     button:
       enable: true
       label: "Despre echipa noastră"
       link: "/despre-noi"
 
-  - title: "Soluții moderne și eficiente"
-    image: "/images/tehnologii-moderne.png"
-    content: "Folosim cele mai noi tehnologii și respectăm toate standardele europene pentru a vă oferi soluții electrice sigure și durabile."
+  - title: "Servicii complete și profesionale"
+    image: "/images/service-3.png"
+    content: "Oferim soluții complete pentru instalații electrice, climatizare și automatizare, respectând normativele în vigoare."
     bulletpoints:
-      - "**Sisteme smart home** pentru automatizarea casei"
-      - "**Panouri solare** și sisteme de energie regenerabilă"
-      - "**LED-uri și soluții eficiente energetic** pentru reducerea consumului"
+      - "**Instalații complete** pentru case și apartamente"
+      - "**Automatizare porți** cu diverse sisteme de control"
+      - "**Iluminat LED** pe diferite profile și design-uri"
       - "**Sisteme de încărcare** pentru vehicule electrice"
       - "**Proiectare și consultanță tehnică** specializată"
       - "**Mentenanță preventivă** pentru evitarea problemelor viitoare"

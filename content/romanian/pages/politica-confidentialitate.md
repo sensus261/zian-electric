@@ -1,6 +1,6 @@
 ---
-title: "Politica de Confidențialitate - Zian Electric"
-meta_title: "Politica de Confidențialitate"
+title: "Politica de confidențialitate - Zian Electric"
+meta_title: "Politica de confidențialitate"
 description: "Politica de confidențialitate și prelucrarea datelor personale pentru serviciile Zian Electric, conform GDPR și legislației române."
 layout: "single"
 draft: false

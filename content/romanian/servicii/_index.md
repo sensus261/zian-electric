@@ -1,7 +1,7 @@
 ---
-title: "Servicii electrice complete - Zian Electric"
+title: "Servicii"
 meta_title: "Servicii electrice"
-description: "Servicii complete de instalații electrice, climatizare, sisteme de siguranță. Electricieni autorizați, intervenții rapide, garanție extinsă în toată România."
+description: "Servicii complete de instalații electrice, climatizare și automatizare porți. Execuție conform normativ pentru case și apartamente în Alba Iulia."
 image: "/images/servicii-electrice.png"
 layout: "single"
 draft: false
@@ -9,246 +9,242 @@ draft: false
 
 # Serviciile noastre complete
 
-La **Zian Electric**, oferim o gamă completă de servicii electrice pentru toate nevoile dumneavoastră, de la instalații simple la proiecte complexe de automatizare.
+<div class="bg-gradient-to-r from-blue-50 to-indigo-50 p-6 rounded-lg mb-8">
 
-&nbsp;
+La **Zian Electric SRL**, cu sediul în Alba Iulia și administrată de Opriș Ioan Augustin, oferim servicii electrice conform normativ pentru case și apartamente, precum și servicii de climatizare și automatizare porți.
 
----
+**⚠️ Notă importantă**: Firma nu este autorizată. Avem program orar dinamic adaptat nevoilor clienților.
 
-&nbsp;
+</div>
 
-## 🏠 Instalații electrice rezidențiale
-
-&nbsp;
-
-### Instalații noi
-
-- **Proiectare și execuție** instalații electrice complete
-- **Tablouri electrice** moderne și sigure
-- **Prize și întrerupătoare** de ultimă generație
-- **Iluminat LED** eficient energetic
-- **Circuite specializate** pentru electrocasnice
-
-### Renovări și modernizări
-
-- **Upgrade tablouri electrice** vechi
-- **Înlocuirea cablajului** deteriorat
-- **Adăugarea de prize** și puncte de iluminat
-- **Sisteme de protecție** moderne (AFDD, RCD)
-
-**Preț orientativ**: de la 50 RON/punct de lucru
-
-&nbsp;
+<br>
 
 ---
 
-&nbsp;
+## 🏠 Instalații electrice conform normativ
 
-## ❄️ Climatizare și HVAC
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6 my-8">
 
-&nbsp;
+<div class="bg-white p-6 rounded-lg shadow-sm border">
 
-### Montaj climatizare
+### ⚡ Instalații noi
 
-- **Aer condiționat split** pentru case și apartamente
-- **Sisteme multi-split** pentru mai multe încăperi
-- **Climatizare comercială** pentru birouri și magazine
-- **Verificare și umplere freon** regulată
+✅ **Instalații electrice conform normativ** pentru case și apartamente  
+✅ **Branșamente și prize de pământ măsurate** - rezultatul fiind conform normativului  
+✅ **Modificări și extinderi instalații electrice** în permisiunea normativului  
+✅ **Montarea corpurilor de iluminat** pe diverse profile  
+✅ **Benzi LED** pe diferite profile și design ales
 
-### Service și întreținere
+</div>
 
-- **Curățare și dezinfectare** unități interne/externe
-- **Verificări periodice** pentru eficiență maximă
-- **Reparații rapide** de defecțiuni
-- **Garanție extinsă** la toate intervențiile
+<div class="bg-white p-6 rounded-lg shadow-sm border">
 
-**Preț montaj**: de la 200 RON pentru instalare standard
+### 🔧 Intervenții electrice
 
-&nbsp;
+✅ **Intervenții diverse** ce țin de electric  
+✅ **Taxare în funcție de circumstanțe** - prețuri corecte  
+✅ **Program orar dinamic** adaptat nevoilor  
+✅ **Execuție profesională** conform normativelor
 
----
+<div class="bg-green-50 p-4 rounded-lg mt-4">
+<strong>🎯 Am executat cu succes</strong> lucrările menționate și nu numai atât.
+</div>
 
-&nbsp;
+</div>
 
-## 🛡️ Sisteme de siguranță
+</div>
 
-&nbsp;
-
-### Alarme și supraveghere
-
-- **Sisteme de alarmă** wireless și cu fir
-- **Camere de supraveghere** HD/4K
-- **Interfoane video** pentru bloc sau casă
-- **Control acces** cu carduri sau cod
-- **Senzori de mișcare** interiori și exteriori
-
-### Smart home
-
-- **Automatizare iluminat** cu temporizatoare
-- **Prize inteligente** controlabile de la distanță
-- **Termostoare digitale** pentru control temperatură
-- **Sisteme integrate** cu aplicații mobile
-
-**Preț sistem basic**: de la 500 RON
-
-&nbsp;
+<br>
 
 ---
 
-&nbsp;
+## ❄️ Instalare aere condiționate
 
-## ⚡ Servicii industriale și comerciale
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 my-8">
 
-&nbsp;
+<div class="bg-blue-50 p-4 rounded-lg text-center">
+<div class="text-2xl font-bold text-blue-600">9000 BTU</div>
+<div class="text-sm text-gray-600">Dormitoare, birouri mici</div>
+</div>
 
-### Instalații comerciale
+<div class="bg-blue-50 p-4 rounded-lg text-center">
+<div class="text-2xl font-bold text-blue-600">12000 BTU</div>
+<div class="text-sm text-gray-600">Living-uri, birouri</div>
+</div>
 
-- **Proiectare instalații** pentru birouri și magazine
-- **Iluminat profesional** LED industrial
-- **Prize și puncte de lucru** specializate
-- **Sisteme de siguranță** avansate
+<div class="bg-blue-50 p-4 rounded-lg text-center">
+<div class="text-2xl font-bold text-blue-600">18000 BTU</div>
+<div class="text-sm text-gray-600">Spații mari, apartamente</div>
+</div>
 
-### Mentenanță industrială
+<div class="bg-blue-50 p-4 rounded-lg text-center">
+<div class="text-2xl font-bold text-blue-600">24000 BTU</div>
+<div class="text-sm text-gray-600">Case, spații comerciale</div>
+</div>
 
-- **Contracte de întreținere** pentru companii
-- **Intervenții preventive** programate
-- **Service de urgență** 24/7
-- **Raportare și documentație** completă
+</div>
 
-**Oferte personalizate** în funcție de proiect
+<div class="bg-gradient-to-r from-blue-50 to-cyan-50 p-6 rounded-lg my-6">
 
-&nbsp;
+### 🛠️ Servicii incluse
 
----
+✅ **Instalare conform normativ** pentru siguranță maximă  
+✅ **Vidarea conductei** inclusă în serviciu  
+✅ **Verificări periodice** pentru eficiență optimă  
+✅ **Reparații** când este necesar  
+✅ **Program flexibil** pentru montaj
 
-&nbsp;
+<div class="bg-white p-4 rounded-lg mt-4">
+<strong>💡 Observație:</strong> Prestăm aceste servicii alături de instalațiile electrice.
+</div>
 
-## 🔋 Energie regenerabilă
+</div>
 
-&nbsp;
-
-### Panouri solare
-
-- **Sisteme fotovoltaice** pentru case
-- **Calcul randament** și perioada de amortizare
-- **Montaj profesional** pe toate tipurile de acoperișuri
-- **Racordare la rețea** și documentații ANRE
-
-### Stații de încărcare auto
-
-- **Wallbox-uri** pentru mașini electrice
-- **Instalații complete** cu protecții specifice
-- **Sisteme inteligente** cu programare de încărcare
-- **Consultanță tehnică** pentru alegerea optimă
-
-**Preț panou solar**: de la 3000 RON/kW instalat
-
-&nbsp;
+<br>
 
 ---
 
-&nbsp;
+## 🚪 Automatizare porți
 
-## 🚨 Intervenții de urgență
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6 my-8">
 
-&nbsp;
+<div class="bg-white p-6 rounded-lg shadow-sm border">
 
-### Servicii urgență 24/7
+### 🚪 Tipuri de porți
 
-- **Defecțiuni majore** de instalații
-- **Scurt-circuite** și probleme de siguranță
-- **Reparații rapide** de tablouri electrice
-- **Întreruperi de curent** - identificare cauze
+🔸 **Poarta batantă** cu sisteme automate  
+🔸 **Poarta culisantă** cu sisteme automate  
+🔸 **Diverse module de control** adaptabile  
+🔸 **Sisteme de siguranță** integrate
 
-### Diagnosticare și reparații
+</div>
 
-- **Măsurători electrice** specializate
-- **Detectare defecte** cu aparatură profesională
-- **Reparații pe loc** când este posibil
-- **Rapoarte tehnice** detaliate
+<div class="bg-white p-6 rounded-lg shadow-sm border">
 
-**Tarif deplasare urgență**: 100 RON (se deduce din costul lucrării)
+### 📱 Sisteme de control
 
-&nbsp;
+📱 **Telecomandă** pentru control de la distanță  
+📞 **Control prin telefon** pentru acces de oriunde  
+🔘 **Buton de control** pentru acces direct  
+⚙️ **Module combinate** pentru flexibilitate maximă
 
----
+</div>
 
-&nbsp;
+</div>
 
-## 📋 Certificări și avize
+<div class="bg-amber-50 p-4 rounded-lg border-l-4 border-amber-400 my-6">
+<strong>🔧 Serviciu suplimentar:</strong> Instalarea automatizării porților este unul dintre serviciile suplimentare pe care le prestăm.
+</div>
 
-&nbsp;
-
-### Documentații legale
-
-- **Autorizații ANRE** pentru racordări
-- **Certificate de verificare** pentru instalații noi
-- **Avize PSI** (Prevenirea și Stingerea Incendiilor)
-- **Măsurători de rezistență** la împământare
-
-### Inspecții periodice
-
-- **Verificări tehnice anuale** obligatorii
-- **Revizii de siguranță** pentru instalații
-- **Actualizări certificate** când e necesar
-- **Consultanță legală** pentru conformitate
-
-&nbsp;
+<br>
 
 ---
 
-&nbsp;
+## 📞 Contactați-ne pentru servicii
 
-## 💡 Consultanță și proiectare
+<div class="bg-gradient-to-br from-gray-50 to-blue-50 p-6 rounded-lg">
 
-&nbsp;
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6">
 
-### Servicii de consultanță
+<div class="bg-white p-4 rounded-lg shadow-sm">
 
-- **Evaluări gratuite** la fața locului
-- **Calcule de consum** și eficiență energetică
-- **Recomandări tehnice** personalizate
-- **Planificare buget** pentru proiecte mari
+### 🏢 Informații generale
 
-### Proiectare tehnică
+🏢 **Firmă**: Zian Electric SRL  
+📍 **Sediu**: Alba Iulia  
+👨‍💼 **Administrator**: Opriș Ioan Augustin  
+⚠️ **Status**: Firma nu este autorizată  
+🕰️ **Program**: Orar dinamic
 
-- **Planuri executare** detaliate
-- **Calcule de dimensionare** pentru instalații
-- **Specificații tehnice** pentru materiale
-- **Supraveghere tehnică** pe parcursul execuției
+</div>
 
-&nbsp;
+<div class="bg-white p-4 rounded-lg shadow-sm">
+
+### ⚙️ Servicii oferite
+
+⚡ **Instalații electrice** conform normativ  
+❄️ **Climatizare** 9-12-18-24000BTU  
+🚪 **Automatizare porți** batante și culisante  
+🔧 **Intervenții electrice** diverse
+
+</div>
+
+</div>
+
+<div class="bg-blue-100 p-4 rounded-lg mt-4 text-center">
+<strong>💬 Mesaj important:</strong> Suntem deschiși intervențiilor ce țin de electric. Intervenția va fi taxată în funcție de circumstanțe.
+</div>
+
+</div>
+
+<br>
 
 ---
-
-&nbsp;
 
 ## 🎯 De ce să alegeți Zian Electric?
 
-&nbsp;
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 my-8">
 
-✅ **Experiență vastă** - Peste 10 ani în domeniu  
-✅ **Electricieni autorizați** - Certificați ANRE  
-✅ **Garanție extinsă** - Până la 5 ani la lucrări  
-✅ **Materiale premium** - Doar branduri de încredere  
-✅ **Prețuri competitive** - Raport calitate-preț excelent  
-✅ **Răspuns rapid** - Interventii în maxim 24h  
-✅ **Echipament modern** - Aparatură profesională
+<div class="bg-green-50 p-4 rounded-lg border border-green-200">
+🎯 Experiență confirmată  
+</div>
 
-&nbsp;
+<div class="bg-blue-50 p-4 rounded-lg border border-blue-200">
+📄 Conformitate normative  
+</div>
+
+<div class="bg-purple-50 p-4 rounded-lg border border-purple-200">
+🕰️ Program flexibil  
+</div>
+
+<div class="bg-orange-50 p-4 rounded-lg border border-orange-200">
+🛠️ Servicii complete  
+</div>
+
+<div class="bg-yellow-50 p-4 rounded-lg border border-yellow-200">
+💰 Prețuri corecte  
+</div>
+
+<div class="bg-indigo-50 p-4 rounded-lg border border-indigo-200">
+📎 Măsurători precise  
+</div>
+
+</div>
+
+<div class="bg-gradient-to-r from-green-50 to-blue-50 p-6 rounded-lg border">
+🔧 Intervenții diverse - Suntem deschiși la multe tipuri de lucrări electrice
+</div>
 
 ---
 
-&nbsp;
-
 ## 📞 Solicitați o ofertă
 
-&nbsp;
+<div class="bg-gradient-to-br from-indigo-50 to-blue-100 p-8 rounded-lg shadow-lg text-center">
 
-Pentru o **ofertă personalizată** și o consultanță gratuită, contactați-ne:
+<h3 class="text-xl font-bold mb-4">📝 Pentru o ofertă personalizată și o consultanță, contactați-ne:</h3>
 
-**📱 Telefon**: [0741 234 567](tel:+40741234567)  
-**📧 Email**: [oferte@zian-electric.ro](mailto:oferte@zian-electric.ro)  
-**🕒 Program**: Luni-Vineri: 08:00-18:00 | Urgențe: 24/7
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
 
-Răspundem în maxim **2 ore** la toate solicitările!
+<div class="bg-white p-4 rounded-lg">
+📍 Sediu: Alba Iulia
+</div>
+
+<div class="bg-white p-4 rounded-lg">
+👨‍💼 Administrator: Opriș Ioan Augustin
+</div>
+
+<div class="bg-white p-4 rounded-lg">
+🕰️ Program: Dinamic - adaptat nevoilor
+</div>
+
+<div class="bg-white p-4 rounded-lg">
+⚠️ Observație: Firma nu este autorizată
+</div>
+
+</div>
+
+<div class="bg-green-100 p-4 rounded-lg border-2 border-green-300">
+<strong>📨 Răspundem la toate solicitările și oferim soluții adaptate circumstanțelor!</strong>
+</div>
+
+</div>

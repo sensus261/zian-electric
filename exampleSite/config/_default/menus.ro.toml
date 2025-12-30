@@ -7,7 +7,7 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Despre Noi"
+name = "Despre noi"
 url = "/despre-noi"
 weight = 2
 
@@ -23,7 +23,7 @@ weight = 4
 
 # footer menu
 [[footer]]
-name = "Despre Noi"
+name = "Despre noi"
 url = "/despre-noi"
 weight = 1
 
@@ -38,6 +38,6 @@ url = "/contact"
 weight = 3
 
 [[footer]]
-name = "Politica de Confidențialitate"
+name = "Politica de confidențialitate"
 url = "/politica-confidentialitate"
 weight = 4
